@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-hover/static/css/main.86925c19.css",
+    "main.js": "/image-hover/static/js/main.8ab78925.js",
+    "index.html": "/image-hover/index.html",
+    "main.86925c19.css.map": "/image-hover/static/css/main.86925c19.css.map",
+    "main.8ab78925.js.map": "/image-hover/static/js/main.8ab78925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86925c19.css",
+    "static/js/main.8ab78925.js"
+  ]
+}

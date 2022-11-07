@@ -1,0 +1,2 @@
+*{font-family:sans-serif;margin:0;padding:0;transition:all .15s linear}.home{display:flex;height:100vh;width:100%}.links{align-items:center;background-color:#000;color:#adadad;display:flex;flex-direction:column;gap:2em;justify-content:center;width:50%}.links p{cursor:pointer;font-size:1.5em;font-weight:700;letter-spacing:1px;transition:all .15s linear}.links p:hover{color:#fff}.images{align-items:center;display:flex;justify-content:center;width:50%}.images img{object-fit:cover;width:60%}
+/*# sourceMappingURL=main.86925c19.css.map*/
